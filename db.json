@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 4,
+      "price": 40,
+      "name": "Product D",
+      "description": "This is product D"
+    },
+    {
+      "id": 7,
+      "price": 70,
+      "name": "Product G",
+      "description": "This is product G"
+    },
+    {
+      "name": "dfgdsg",
+      "price": "67",
+      "description": "fghgfh",
+      "id": 20
+    },
+    {
+      "name": "dfgdsggdsg",
+      "price": "96",
+      "description": "fghgfhdsfgf",
+      "id": 28
+    },
+    {
+      "name": "Mobile",
+      "price": "150",
+      "description": "This is mobile product",
+      "id": 69
+    }
+  ]
+}
